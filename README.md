@@ -1,7 +1,7 @@
 # ApplicantSuccess
 
 ## Overview
-This model predicts whether loan applicants will be successful if they receive funding from a venture capital firm. 
+A neural net model predicting success likely-hood of potential borrowers.
 
 
 
